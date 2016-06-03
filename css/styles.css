@@ -1,0 +1,9 @@
+body {
+	background: darkblue;
+}
+
+.microlight {
+    font-family : monospace;
+    white-space : pre;
+    color : #fff;
+}
