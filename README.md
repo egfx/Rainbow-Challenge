@@ -3,7 +3,7 @@ No images were harmed in the making of this rainbow
 
 ---
 
-See It In Action..
+See it in action..
 
 - 1) Run npm install (node >= 4.4.5)
 - 2) Run Gulp
